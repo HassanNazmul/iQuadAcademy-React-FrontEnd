@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,700;0,900;1,400;1,700;1,900&display=swap');
+
+.teachers-title {
+    padding: 70px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
+    color: #ffc107;
+    font-size: 52px;
+    letter-spacing: 2px;
+}
+
+.teachers-btn {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    letter-spacing: 2px;
+    margin: 10px;
+    font-size: 20px;
+    padding: 10px;
+
+}
+
+.submit-btn {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    letter-spacing: 2px;
+    margin-top: 50px;
+    font-size: 20px;
+    padding: 10px;
+
+}
+
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    color: #FAFAFA;
+}
+
+table, th, td {
+    text-align: center;
+    border: 1px solid #ffc107;
+    padding: 5px 28px;
+}
+
+.tr-heading {
+    background-color: #ffc107;
+    color: #212121;
+    font-weight: 700;
+}
+
+label {
+    color: #FAFAFA;
+}
