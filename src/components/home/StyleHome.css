@@ -2,6 +2,7 @@
 
 body {
     background-color: #212121;
+    font-family: 'Roboto', sans-serif;
 }
 
 .home-title {
@@ -20,9 +21,9 @@ span {
 .home-btn {
     font-family: 'Roboto', sans-serif;
     font-weight: 900;
-    letter-spacing: 2.5px;
+    letter-spacing: 2px;
     margin: 28px;
-    font-size: 30px;
+    font-size: 40px;
     padding: 30px;
 
 }
